@@ -1,0 +1,67 @@
+[
+      {
+        "id": 1,
+        "name": "Product A",
+        "image": "src/images/producta.jpg",
+        "description": "This is product A",
+        "price": 9.99
+      },
+      {
+        "id": 2,
+        "name": "Product B",
+        "image": "src/images/productb.jpg",
+        "description": "This is product B",
+        "price": 19.99
+      },
+      {
+        "id": 3,
+        "name": "Product C",
+        "image": "src/images/productc.jpg",
+        "description": "This is product C",
+        "price": 29.99
+      },
+      {
+        "id": 4,
+        "name": "Product D",
+        "image": "src/images/productd.jpg",
+        "description": "This is product D",
+        "price": 39.99
+      },
+      {
+        "id": 5,
+        "name": "Product E",
+        "image": "src/images/producte.jpg",
+        "description": "This is product E",
+        "price": 49.99
+      },
+      {
+        "id": 6,
+        "name": "Product F",
+        "image": "src/images/productf.jpg",
+        "description": "This is product F",
+        "price": 59.99
+      },
+      {
+        "id": 7,
+        "name": "Product G",
+        "image": "src/images/productg.jpg",
+        "description": "This is product G",
+        "price": 69.99
+      },
+      {
+        "id": 8,
+        "name": "Product H",
+        "image": "src/images/producth.jpg",
+        "description": "This is product H",
+        "price": 79.99
+      },
+      {
+        "id": 9,
+        "name": "Product I",
+        "image": "src/images/producti.jpg",
+        "description": "This is product I",
+        "price": 79.99
+      }
+]
+
+  
